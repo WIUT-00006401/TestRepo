@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "429225066846",
+    "firebase_url": "https://eatitkotlin-503b2.firebaseio.com",
+    "project_id": "eatitkotlin-503b2",
+    "storage_bucket": "eatitkotlin-503b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429225066846:android:2b2db1d613ef3578de0fcf",
+        "android_client_info": {
+          "package_name": "com.example.kotlineatitv2client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429225066846-6j4284cah80ddiatqu8e3h9mkui4kt26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kotlineatitv2client",
+            "certificate_hash": "244f3aab9c7d615a672f2bd2c1e01700323019b3"
+          }
+        },
+        {
+          "client_id": "429225066846-jpdjcbj4hundenapqr8uceeqb5fn01eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpAkplhD6wJ9ejmTXmo_og0PNU4Cqd7NY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429225066846-jpdjcbj4hundenapqr8uceeqb5fn01eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
